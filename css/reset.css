@@ -89,6 +89,7 @@ video {
   border: 0;
   font-size: 16px;
   font: inherit;
+  color: #000;
   vertical-align: baseline;
   text-decoration: none;
 }

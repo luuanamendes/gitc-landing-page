@@ -1,0 +1,81 @@
+.header {
+  background-image: url("../img/fundo-rosa.png");
+}
+
+.header-conteudo {
+  padding: 50px 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-sub-titulo {
+  font-family: var(--sub-titulo);
+  color: var(--offwhite);
+  margin-top: 1rem;
+}
+
+.header-titulo {
+  font-family: var(--titulo);
+  font-size: 2.62rem;
+  color: var(--laranja);
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: var(--preto);
+  text-align: center;
+}
+
+.header-texto {
+  font-weight: bold;
+  color: var(--offwhite);
+  margin-bottom: 1rem;
+}
+
+.header-cta {
+  background-color: var(--preto);
+  padding: 1rem 1.9rem;
+  border-radius: 100px;
+  color: var(--offwhite);
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  transition: transform 0.5s;
+}
+
+.header-cta:hover {
+  background-color: #140d10;
+}
+
+.header-estrela1 {
+  width: 4rem;
+  position: absolute;
+  transform: rotate(180deg);
+  margin-top: 2rem;
+  margin-left: 10%;
+}
+
+.header-estrela2 {
+  width: 3rem;
+  position: absolute;
+  margin-top: 3rem;
+  margin-left: 75%;
+}
+
+.header-estrela3 {
+  width: 1.6rem;
+  position: absolute;
+  margin-top: 29rem;
+  margin-left: 8%;
+}
+
+.header-estrela4 {
+  width: 4rem;
+  position: absolute;
+  margin-top: 26rem;
+  margin-left: 75%;
+}
+
+.header-divisor {
+  position: absolute;
+  margin-top: -1.25rem;
+}
