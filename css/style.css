@@ -1,0 +1,15 @@
+:root {
+  --offwhite: #f1ead1;
+  --amarelo: #fbb300;
+  --laranja: #f45640;
+  --rosa: #ee96bb;
+  --preto: #241f21;
+  --titulo: "Subace";
+  --sub-titulo: "Pacifico";
+  --texto: "IBM Plex Sans";
+}
+
+body {
+  background-color: var(--offwhite);
+  font-family: var(--texto);
+}
