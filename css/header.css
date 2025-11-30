@@ -4,7 +4,7 @@
 }
 
 .header-conteudo {
-  padding: 50px 10%;
+  padding: 50px 10% 70px 10%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -77,6 +77,11 @@
 }
 
 .header-divisor {
+  width: 100vw;
+  height: 40px;
+  background-image: url("../img/quadriculado-mob.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
   margin-top: -1.25rem;
 }
