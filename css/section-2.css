@@ -141,7 +141,30 @@
   }
 }
 
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 550px) {
+  .section2-estrela1 {
+    top: 78rem;
+    left: 8%;
+  }
+
+  .section2-estrela2 {
+    top: 85rem;
+  }
+
+  .section2-estrela4 {
+    width: 3rem;
+    top: 116rem;
+  }
+
+  .section2-estrela5 {
+    top: 129rem;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .section2-estrela5 {
+    top: 123rem;
+  }
 }
 
 @media screen and (min-width: 881px) {
