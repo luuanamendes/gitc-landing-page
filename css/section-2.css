@@ -110,117 +110,51 @@
 }
 
 @media screen and (max-width: 439px) {
-  .section1-titulo {
-    font-size: 1.5rem;
+  .section2-sub-titulo {
+    font-size: 0.7rem;
   }
 
-  .section1-sub-titulo {
-    font-size: 1.2rem;
-  }
-
-  .section1-texto {
+  .card-texto {
     font-size: 0.9rem;
   }
 
-  .cta {
+  .cta2 {
     font-size: 0.8rem;
   }
 
-  .section1-estrela1 {
-    width: 3rem;
-    position: absolute;
-    top: 50rem;
-    right: 5%;
+  .section2-estrela1 {
+    top: 76rem;
+    left: 3%;
   }
 
-  .section1-estrela2 {
-    width: 3rem;
-    position: absolute;
-    top: 65rem;
-    left: 6%;
+  .section2-estrela2 {
+    top: 84rem;
+    right: 8%;
+  }
+
+  .section2-estrela4 {
+    width: 2rem;
+  }
+
+  .section2-estrela5 {
+    top: 134rem;
   }
 }
 
 @media screen and (min-width: 650px) {
-  .section1-estrela1 {
-    width: 3rem;
-    position: absolute;
-    top: 50rem;
-    right: 5%;
-  }
-
-  .section1-estrela2 {
-    width: 3rem;
-    position: absolute;
-    top: 65rem;
-    left: 6%;
-  }
 }
 
 @media screen and (min-width: 881px) {
-  .section1-titulo {
-    margin-top: 6rem;
-    font-size: 3rem;
-  }
-
-  .section1-sub-titulo {
-    margin-bottom: 1.2rem;
-    font-size: 3rem;
-  }
-
-  .section1-texto {
-    font-size: 1.3rem;
-  }
-
-  .section1-cta {
-    padding: 2rem 0 4rem;
-  }
-
-  .carrossel-img1 {
-    height: 260px;
-    margin-bottom: 1rem;
-  }
-
-  .carrossel-img2 {
-    display: none;
-  }
-
-  .cta {
-    font-size: 1.5rem;
-    padding: 1.5rem 3.15rem;
-  }
-
-  .section1-estrela1 {
-    width: 5rem;
-    top: 70rem;
-  }
-
-  .section1-estrela2 {
-    width: 5rem;
-    top: 103rem;
-  }
 }
 
 @media screen and (min-width: 1140px) {
-  .section1-texto {
-    width: 80%;
-  }
 }
 
 @media screen and (min-width: 1400px) {
-  .section1-texto {
-    width: 70%;
-  }
 }
 
 @media screen and (min-width: 1600px) {
-  .section1-texto {
-    width: 60%;
-  }
 }
 
 @media screen and (min-width: 1800px) {
-  .section1-texto {
-    width: 50%;
-  }
 }
