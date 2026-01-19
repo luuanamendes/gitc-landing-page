@@ -92,6 +92,7 @@ video {
   color: #000;
   vertical-align: baseline;
   text-decoration: none;
+  box-sizing: border-box;
 }
 
 article,
