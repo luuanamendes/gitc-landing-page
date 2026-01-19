@@ -92,6 +92,9 @@
 }
 
 .section2-estrela3 {
+  width: 1rem;
+  top: 1rem;
+  right: 50%;
   display: none;
 }
 
@@ -168,6 +171,71 @@
 }
 
 @media screen and (min-width: 881px) {
+  .section2-titulo {
+    font-size: 3.75rem;
+  }
+
+  .section2-sub-titulo {
+    font-size: 1.5rem;
+    margin-top: 1.9rem;
+  }
+
+  .section2-cards {
+    margin: 3.8rem 0;
+    flex-direction: row;
+  }
+
+  .card-titulo {
+    font-size: 1.9rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .card-texto {
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  .section2-cta {
+    padding: 0 0 3rem 0;
+  }
+
+  .cta2 {
+    font-size: 1.5rem;
+    padding: 1.5rem 3.15rem;
+  }
+
+  .section2-estrela1 {
+    width: 3rem;
+    top: 118rem;
+    left: 10%;
+  }
+
+  .section2-estrela2 {
+    width: 3rem;
+    top: 122rem;
+  }
+
+  .section2-estrela3 {
+    display: block;
+    position: absolute;
+    width: 1.5rem;
+    top: 130rem;
+    right: 45%;
+  }
+
+  .section2-estrela4 {
+    width: 3rem;
+    position: absolute;
+    top: 155rem;
+    left: 3%;
+  }
+
+  .section2-estrela5 {
+    width: 1.5rem;
+    position: absolute;
+    top: 165rem;
+    right: 6%;
+  }
 }
 
 @media screen and (min-width: 1140px) {
