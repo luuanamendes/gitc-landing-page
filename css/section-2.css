@@ -239,6 +239,46 @@
 }
 
 @media screen and (min-width: 1140px) {
+  .card {
+    padding: 2.5rem 1.9rem;
+  }
+  .card-titulo {
+    font-size: 2.1rem;
+  }
+
+  .card-texto {
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+
+  .section2-cta {
+    padding: 0 0 4rem 0;
+  }
+
+  .section2-estrela1 {
+    top: 121rem;
+  }
+
+  .section2-estrela2 {
+    top: 123rem;
+    right: 9%;
+  }
+
+  .section2-estrela3 {
+    width: 2rem;
+    top: 129rem;
+    right: 55%;
+  }
+
+  .section2-estrela4 {
+    top: 156rem;
+    left: 4%;
+  }
+
+  .section2-estrela5 {
+    top: 166rem;
+    right: 12%;
+  }
 }
 
 @media screen and (min-width: 1400px) {
