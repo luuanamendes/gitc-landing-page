@@ -295,8 +295,8 @@
   }
 }
 
-@media screen and (min-width: 1600px) {
-}
-
 @media screen and (min-width: 1800px) {
+  .section2-estrela5 {
+    top: 158rem;
+  }
 }
