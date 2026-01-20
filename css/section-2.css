@@ -282,6 +282,17 @@
 }
 
 @media screen and (min-width: 1400px) {
+  .section2-estrela3 {
+    top: 130rem;
+  }
+
+  .section2-estrela4 {
+    top: 148rem;
+  }
+
+  .section2-estrela5 {
+    top: 162rem;
+  }
 }
 
 @media screen and (min-width: 1600px) {
